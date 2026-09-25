@@ -1,0 +1,7 @@
+tensorboard
+torchinfo
+albumentations
+tqdm
+numpy 
+pillow 
+matplotlib
