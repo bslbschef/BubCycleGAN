@@ -12,8 +12,6 @@ pip install -r requirements.txt
 
 ## Data
 
-- Training images: `data/images/`
-- Training masks: `data/masks/`
 - Test images: `test/test_images/`
 - Test masks: `test/test_masks/`
 
